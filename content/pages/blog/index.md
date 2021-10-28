@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Blog1
 layout: PageLayout
 sections:
   - type: FeaturedPostsSection
@@ -15,8 +15,12 @@ sections:
       self:
         height: auto
         width: wide
-        margin: ["mt-0", "mb-0"]
-        padding: ["pt-12", "pb-12"]
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-12
+          - pb-12
         alignItems: center
         justifyContent: center
       title:
