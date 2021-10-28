@@ -1,5 +1,5 @@
 ---
-title: Blog1
+title: Blog 1
 layout: PageLayout
 sections:
   - type: FeaturedPostsSection
