@@ -1,5 +1,5 @@
 ---
-title: Post Title Threes
+title: Post Title Three
 layout: PostLayout
 date: '2021-07-01'
 author: content/data/team/hilary-ouse.json
